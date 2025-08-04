@@ -1,7 +1,7 @@
 import { getSelecionado, getTabuleiro, seleciona } from "./discos.js";
 
     const eH1 = document.querySelector("h1");
-    eH1.textContent="Olá mundo";
+    eH1.textContent="Mude as peças de lado";
 
 
     const eTabuleiro = criaTabuleiro();
